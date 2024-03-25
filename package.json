@@ -1,0 +1,11 @@
+{
+  "name": "powerconsumptionserver",
+  "version": "1.0.0",
+  "description": "chart power consumption from shelly plug",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anton Taylor",
+  "license": "MIT"
+}
